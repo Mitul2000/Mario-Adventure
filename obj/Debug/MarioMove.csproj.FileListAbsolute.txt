@@ -1,0 +1,19 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\MarioMove\MarioMove\bin\Debug\MarioMove.exe.config
+C:\Users\Admin\documents\visual studio 2017\Projects\MarioMove\MarioMove\bin\Debug\MarioMove.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\MarioMove\MarioMove\bin\Debug\MarioMove.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\MarioMove\MarioMove\obj\Debug\MarioMove.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\MarioMove\MarioMove\obj\Debug\MarioMove.Form1.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\MarioMove\MarioMove\obj\Debug\MarioMove.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2017\Projects\MarioMove\MarioMove\obj\Debug\MarioMove.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2017\Projects\MarioMove\MarioMove\obj\Debug\MarioMove.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\MarioMove\MarioMove\obj\Debug\MarioMove.pdb
+C:\Users\100700131\Documents\MarioMove\bin\Debug\MarioMove.exe.config
+C:\Users\100700131\Documents\MarioMove\bin\Debug\MarioMove.exe
+C:\Users\100700131\Documents\MarioMove\bin\Debug\MarioMove.pdb
+C:\Users\100700131\Documents\MarioMove\obj\Debug\MarioMove.csprojAssemblyReference.cache
+C:\Users\100700131\Documents\MarioMove\obj\Debug\MarioMove.Form1.resources
+C:\Users\100700131\Documents\MarioMove\obj\Debug\MarioMove.Properties.Resources.resources
+C:\Users\100700131\Documents\MarioMove\obj\Debug\MarioMove.csproj.GenerateResource.cache
+C:\Users\100700131\Documents\MarioMove\obj\Debug\MarioMove.csproj.CoreCompileInputs.cache
+C:\Users\100700131\Documents\MarioMove\obj\Debug\MarioMove.exe
+C:\Users\100700131\Documents\MarioMove\obj\Debug\MarioMove.pdb
