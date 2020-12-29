@@ -12,4 +12,3 @@
 This was the first project I made using Windows Form application and C#
 
 
-![Home Page](https://github.com/Mitul2000/Mario-Adventure/tree/master/picture/Picture5.png)
