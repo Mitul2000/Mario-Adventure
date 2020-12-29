@@ -20,4 +20,3 @@ This was the first project I made using Windows Form application and C#
 # Game screen 
 ![Picture3](https://user-images.githubusercontent.com/60102839/103259374-1bb15e00-4967-11eb-8fad-493a2f9d5c0c.png)
 
-![Picture7](https://user-images.githubusercontent.com/60102839/103259386-21a73f00-4967-11eb-919d-eadee9f535f2.png)
